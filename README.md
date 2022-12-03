@@ -1,3 +1,12 @@
+# This is a fork of PyKinect2
+
+This branch is a fork of the repository at https://github.com/Kinect/PyKinect2 which has python interfaces to the Kinect v2 SDK and sensor.  It has a few updates needed to work with modern Python 3, and the original repository seems to be no longer maintained or updated.
+
+This is used by the experimental Second Life Puppetry plug in - code that connects a Kinect v2 sensor motion capture data to the Second Life viewer.   See the repository at https://github.com/secondlife/leap for that plug-in.
+
+
+Original ReadMe File:
+
 # PyKinect2
 
 Enables writing Kinect applications, games, and experiences using Python.  Inspired by the original [PyKinect project on CodePlex](http://pytools.codeplex.com/wikipage?title=PyKinect).
